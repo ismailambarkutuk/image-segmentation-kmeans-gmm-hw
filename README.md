@@ -13,7 +13,7 @@ The default command expects the `images/` folder to be in the same folder as `ma
 
 - `outputs/segmentation_maps/`: individual segmentation maps for 4 images × 4 K values × 2 algorithms = 32 images
 - `outputs/comparison_grids/`: compact grids for easier report preparation
-- `outputs/metrics.csv`: best inertia/log-likelihood scores
+- `outputs/metrics.csv`: best inertia/log-likelihood scores 
 
 ## Default K values
 
